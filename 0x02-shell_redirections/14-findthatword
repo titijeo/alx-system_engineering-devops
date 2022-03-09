@@ -1,0 +1,2 @@
+#!/bin/bash
+grep "rrot" /etc/passwd
